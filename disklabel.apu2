@@ -1,0 +1,9 @@
+/               2G
+swap            1G
+/tmp		1G
+/usr		2G
+/usr/local	3G
+/var		1G
+/var/log	2G
+/home		2G
+/usr/X11R6	1G

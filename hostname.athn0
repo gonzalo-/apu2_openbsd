@@ -1,0 +1,7 @@
+inet 10.0.0.2 255.255.255.0 10.0.0.255
+media autoselect mediaopt hostap
+nwid batman
+wpakey Alfred.Pennyworth321
+wpaprotos wpa2
+chan 1
+up
